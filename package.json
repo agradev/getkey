@@ -1,9 +1,0 @@
-{
-  "name": "agra-license-dashboard",
-  "private": true,
-  "version": "25.0.0",
-  "description": "AGRA License Dashboard Cloudflare Worker",
-  "scripts": {
-    "check": "node --check worker.js"
-  }
-}
